@@ -1,5 +1,5 @@
 # Sachin-Gupta
-Readme 
+ 
 <h1 align="center"><img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="400"> </h1>
 
 
@@ -15,7 +15,7 @@ Readme
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alicehack2020.alicehack2020)
 
-An aspiring Data nalyst  with significant education, knowledge, and skills has a passion for learning with an endless supply of optimism and curiosity.
+An aspiring Data analyst  with significant education, knowledge, and skills has a passion for learning with an endless supply of optimism and curiosity.
 
 Well-versed in numerous programming languages including SQL, Excel , Tableau, Python, MS-Word and Powerpoint.
 
